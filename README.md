@@ -1,6 +1,6 @@
 # 👨‍💻 About me
 
-My name is Luke Stephens. I'm a dad, husband and hacker! I do a lot of bug bounties. I work for Bugcrowd, but this account is for my personal projects.
+My name is Luke Stephens. I'm a dad, husband and hacker! I do a lot of bug bounties. I am the founder of a cyber security consultancy called [Haksec](https://haksec.io), but this account is for my personal projects.
 
 # 🧐 Find Me
 * 💻 Website: [hakluke.com](https://hakluke.com)
